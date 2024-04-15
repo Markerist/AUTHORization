@@ -9,13 +9,6 @@
     <a href="https://markerist.github.io/AUTHORization/">View Demo</a>
   </p>
 
-https://github.com/Markerist/AUTHORization/assets/113844109/e82c4372-cbb7-475c-b9a6-7ff6a719b883
-
-
-
-https://github.com/Markerist/AUTHORization/assets/113844109/8f4c4ddf-1c4e-4741-859d-f70cb1db05b4
-
-
 </div>
 
 <!-- ABOUT THE PROJECT -->

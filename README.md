@@ -6,8 +6,16 @@
     This repository contains the source code for an authorization website, demonstrating the importance and functionality of authorization in web applications.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://markerist.github.io/AUTHORization/">View Demo</a>
   </p>
+
+https://github.com/Markerist/AUTHORization/assets/113844109/e82c4372-cbb7-475c-b9a6-7ff6a719b883
+
+
+
+https://github.com/Markerist/AUTHORization/assets/113844109/8f4c4ddf-1c4e-4741-859d-f70cb1db05b4
+
+
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -76,7 +84,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

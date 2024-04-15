@@ -41,19 +41,12 @@
 
 </table>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This website provides a simple demonstration of the difference between accessing resources with and without proper authorization. Website is made with the purpose of being Used
+as a school activity for Information Assurance and Security.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Usage
+## Usage
 
 1. Clone this repository to your local machine.
 2. Install any necessary dependencies.
@@ -90,9 +83,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - Esguerra, Mark Angel F.
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Markerist/AUTHORization](https://github.com/Markerist/AUTHORization)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -19,10 +19,6 @@
             <img src="images/01.png" alt="UI" />
             <br />
             <p align="center">UI</p></td>   
-        <td>
-            <img src="images/02.png" alt="Submission" />
-                <br />
-                <p align="center">Submission Alert</p></td>
     </tr>
 
 </table>
@@ -30,11 +26,15 @@
 <table>
     <tr>
         <td>
-            <img src="03.png" alt="Username Alert" />
+            <img src="images/02.png" alt="Submission" />
+                <br />
+                <p align="center">Submission Alert</p></td>
+        <td>
+            <img src="images/03.png" alt="Username Alert" />
             <br />
             <p align="center">Username Alert</p></td>   
         <td>
-            <img src="04.png" alt="Confirmation Alert" />
+            <img src="images/04.png" alt="Confirmation Alert" />
                 <br />
                 <p align="center">Confirmation Alert</p></td>
     </tr>

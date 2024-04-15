@@ -13,11 +13,35 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<table>
+    <tr>
+        <td>
+            <img src="images/01.png" alt="UI" />
+            <br />
+            <p align="center">UI</p></td>   
+        <td>
+            <img src="images/02.png" alt="Submission" />
+                <br />
+                <p align="center">Submission Alert</p></td>
+    </tr>
+
+</table>
+
+<table>
+    <tr>
+        <td>
+            <img src="03.png" alt="Username Alert" />
+            <br />
+            <p align="center">Username Alert</p></td>   
+        <td>
+            <img src="04.png" alt="Confirmation Alert" />
+                <br />
+                <p align="center">Confirmation Alert</p></td>
+    </tr>
+
+</table>
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
